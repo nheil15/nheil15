@@ -6,7 +6,7 @@
 
 ## 🎓 Education  
 - 🎓 **Batangas State University - TNEU**  
-- 📚 Currently pursuing **Computer Science** 
+- 📚 **BS Computer Science** 
 
 ---
 
