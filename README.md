@@ -4,6 +4,12 @@
 
 ---
 
+## 🎓 Education  
+- 🎓 **Batangas State University - TNEU**  
+- 📚 Currently pursuing **Computer Science** 
+
+---
+
 ## 🎯 Hobbies & Interests  
 - 🎮 Gaming  
 - 🏀 Basketball  
@@ -17,11 +23,5 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
-
----
-
 ## 🌎 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)  
+[![Facebook](https://www.facebook.com/nheil.eduria.7)  
